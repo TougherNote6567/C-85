@@ -1,0 +1,15 @@
+body{
+    background-image:url("https://i.postimg.cc/KzWwHPcq/racing.gif");
+    background-position:center;
+    background-size:cover;
+}
+h1{
+color:cornsilk;
+}
+h4{
+    color:cornsilk;
+    }
+#myCanvas{
+    background-color:white;
+    border-style:ridge;
+}
